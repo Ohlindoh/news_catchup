@@ -1,0 +1,10 @@
+pandas
+bs4
+openai
+langchain
+Flask
+pulp
+transformers
+torch
+crewai
+crewai[tools]
